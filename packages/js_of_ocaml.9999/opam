@@ -13,6 +13,7 @@ depends: [
   "lwt"
   "menhir"
   "camlp4"
+  "cmdliner"
 ]
 
 depopts: ["deriving" "tyxml" "reactiveData" ]

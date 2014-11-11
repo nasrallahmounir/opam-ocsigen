@@ -15,4 +15,5 @@ depends: [
   "safepass"
   "eliom" {>= "9999"}
   "eliom-widgets"
+  "ocsigen-widgets"
 ]
